@@ -1,2 +1,2 @@
-# sql-data-warehourse
-Building data warehouse with postgres
+# sql-data-warehouse
+Building data warehouse with PostgresSQL
